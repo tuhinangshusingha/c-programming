@@ -1,1 +1,3 @@
 # c-programming
+day 1(12/08/25):5 programs
+day 1(19/08/25):5 programs
